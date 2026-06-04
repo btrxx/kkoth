@@ -1,0 +1,81 @@
+.fa1 {width: 400px; margin: auto; background: linear-gradient(to right, black, rgb(74 74 74 / 0%)), url(https://grainy-gradients.vercel.app/noise.svg);}
+.fa2 {width: 400px; height: 250px; background-size: 405px; background-position: 0px -95px;}
+.fa3 {position: absolute; margin: -215px 28px; font: 100 8px 'Playfair Display'; text-transform: uppercase; letter-spacing: 2px; padding: 30px 20px; line-height: 12px; width: 76px; display: flex; align-items: center; white-space: normal; flex-direction: column;}
+
+
+.fzi {width: 600px; display: flex; margin: auto;} 
+.fzi1 {width: 250px; height: 200px; background-size: cover;} 
+.fzi2 {width: 250px; height: 200px; background-size: 370px; background-position: -55px -30px; transform: scaleX(-1);} 
+.fzi3 {color: white; background: #00000040; position: absolute; display: flex; width: 300px; height: 0px; align-content: center; justify-content: center; align-items: center; font: 7px Cinzel; letter-spacing: 12px; padding: 100px; text-align: center; flex-direction: column;} 
+.fzi3 i {margin-bottom: -15px; font-size: 70px; animation: flicker 2.8s infinite;}
+@keyframes flicker { 0%   { opacity: 1; } 5%   { opacity: 0.3; } 10%  { opacity: 1; } 15%  { opacity: 0.6; } 22%  { opacity: 0.1; } 28%  { opacity: 1; } 35%  { opacity: 0.4; } 45%  { opacity: 1; } 60%  { opacity: 0.2; } 75%  { opacity: 1; } 100% { opacity: 1; } }
+
+
+.ivr {width: 600px; display: flex; margin: auto;} 
+.ivr1 {width: 250px; height: 200px; background-size: 450px; background-position: -130px -10px;filter: contrast(1.1);} 
+.ivr2 {width: 250px; height: 200px; background-size: 350px; background-position: -35px -38px;} 
+.ivr3 {color: white; background: #00000030; position: absolute; display: flex; width: 300px; height: 200px; align-content: center; justify-content: center; align-items: center; font: 7px Cinzel; letter-spacing: 6px; padding: 0px 100px; text-align: center; flex-direction: column;} 
+.ivr3 i {margin-bottom: 10px; font-size: 30px;} 
+
+
+.fb {display: flex; margin: auto; width: 380px;} 
+.fb1 { background-size: cover; background-position: center; width: 250px; height: 150px;} 
+.fb2 {background: white; width: 90px; color: #000; padding: 20px; font-size: 10px; font-style: italic; line-height: 14px; letter-spacing: 2px; display: flex; align-items: center; text-align: center; flex-direction: column; justify-content: center;} 
+.fb3 {font-size:25px;color: var(--groups);} 
+
+
+.fc1 {width: 370px; margin: auto;} 
+.fc2 {width: 400px; height: 184px; background-size: 400px; background-position: 0px -40px;} 
+.fc3 {position: absolute; margin: -100px 90px; display: flex; font: 100 8px 'Playfair Display'; text-transform: uppercase; flex-direction: column; letter-spacing: 3px; color: #ffffffb3; line-height: 12px; text-align: center;} 
+.fc4 {font-size: 20px;margin-bottom: 5px;}
+
+
+.fd1 {display: flex; margin: auto; width: 440px; background: red; justify-content: center;} 
+.fd2 {width: 220px; height: 250px; background-size: cover; background-position: center; z-index: 0;} 
+.fd22 {width: 120px; height: 250px; background-size: auto; background-position: left; z-index: 0;} 
+.fd3 {color: #ffffff40; background: radial-gradient(#212020ab, transparent); font-size: 10px; padding: 68px 150px; width: 140px; margin: auto; margin-top: -250px; z-index: 1; position: sticky; display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center; text-transform: uppercase; font-family: 'Playfair Display'; line-height: 16px; letter-spacing: 1px;} 
+.fd3 i {font-size: 50px;}
+
+
+.ar1 {display: flex; margin: auto; width: 440px; justify-content: center;} 
+.ar2 {width: 220px; height: 250px; background-size: cover; z-index: 0; background-position: 260px 0px; filter: brightness(0.5) contrast(1.1) contrast(0.9);} 
+.ar3 {color: #ffffff40; background: radial-gradient(#212020ab, transparent); font-size: 10px; padding: 68px 150px; width: 140px; margin: auto; margin-top: -250px; z-index: 1; position: sticky; display: flex; align-items: center; justify-content: center; flex-direction: column; text-align: center; text-transform: uppercase; font-family: 'Playfair Display'; line-height: 16px; letter-spacing: 1px;} 
+.ar3 i {font-size: 50px;}
+
+
+.fe1 {width:444px;margin:auto;display:flex;align-items:center;justify-content:center;background: linear-gradient(to right, #00000000, rgb(74 74 74 / 29%)), url(https://grainy-gradients.vercel.app/noise.svg);} 
+.fe2 {background-position: center;background-size:cover;width:222px;height:222px;opacity: 0.8;} 
+.fe3 {position:absolute;font:100 8px 'Playfair Display';text-transform:uppercase;flex-direction:column;letter-spacing:3px;text-align: center; padding: 5px 15px; width: 260px;}
+
+
+.jrth {margin: auto; display: flex ; width: 460px; border-top: 1px solid; border-bottom: 1px solid; padding: 10px 0px 10px 0px; filter: brightness(0.7);} 
+.jrth1 {width: 230px; height: 230px; background-size: 230px; filter: brightness(30%) grayscale(100%) contrast(1.06) contrast(0.82) hue-rotate(30deg);} 
+.jrth2 {width: 230px; height: 230px; background-size: 340px; background-position: 0px -50px; filter: brightness(25%) sepia(100%) hue-rotate(215deg) saturate(200%) contrast(0.79);} 
+.jrth3 {display: flex ; font: italic 10px 'Cinzel'; text-transform: uppercase; letter-spacing: 0.5px; line-height: 9px; width: 105px; position: absolute; margin: -175px 255px; color: white; text-shadow: 2px 2px #000000; align-items: center;}
+
+
+.sln {margin: auto; display: flex ; width: 400px; position: relative; overflow: hidden; background-size: 400% 400%; filter: brightness(0.7);} 
+.sln1 {width: 200px; height: 190px; background-size: cover;} 
+.sln2 {width: 200px; height: 190px; background-size: cover;} 
+.sln3 {display: flex; font: italic 11px 'Cinzel'; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1; width: 131px; position: absolute; margin: -110px 179px; color: #ffffff; text-align: center; flex-direction: column; text-shadow: 0 0 4px #fff, 0 0 8px #fff, 0 0 16px #fff, 0 0 32px rgba(255, 255, 255, 1), 0 0 48px rgba(255, 255, 255, 0.9), 0 0 64px rgba(255, 255, 255, 0.8); animation: neonPulseStrong 4s ease-in-out infinite;}
+@keyframes neonPulseStrong { 0%, 100% { text-shadow: 0 0 4px #fff, 0 0 8px #fff, 0 0 16px #fff, 0 0 32px rgba(255,255,255,0.9), 0 0 48px rgba(255,255,255,0.7), 0 0 64px rgba(255,255,255,0.6); opacity: 0.85; } 50% { text-shadow: 0 0 6px #fff, 0 0 12px #fff, 0 0 24px #fff, 0 0 48px rgba(255,255,255,1), 0 0 72px rgba(255,255,255,1), 0 0 96px rgba(255,255,255,0.9); opacity: 1; } }
+
+
+.els{margin: auto; display: flex; width: 460px; position: relative; overflow: hidden; background: linear-gradient(to right, #0000009e, rgb(0 0 0 / 52%)), url(https://grainy-gradients.vercel.app/noise.svg);} 
+.els1 {width: 230px; height: 200px; background-size: 450px; background-position: -190px -62px; filter: brightness(90%) grayscale(100%) contrast(1.2) contrast(0.85) opacity(0.7);} 
+.els2 {width: 230px; height: 200px; background-size: cover; background-position: left; filter: brightness(150%) saturate(50%) grayscale(0.5) contrast(1.2) contrast(0.85) opacity(0.5);} 
+.els3 {font: italic 8px 'Cinzel'; text-transform: lowercase; letter-spacing: 2.5px; line-height: 11px; width: 195px; position: absolute; margin: -22px 175px; color: white; text-shadow: 2px 2px #000000; align-items: center; border-left: 1px solid white; padding: 0px 15px; opacity: 0.9;}
+.els3 b {color: var(--groups); text-shadow: 0px 0px black; font-size: 11px; letter-spacing: 1px;}
+
+
+.dru{margin: auto; display: flex; width: 460px; position: relative; overflow: hidden; background: linear-gradient(to right, #0000009e, rgb(0 0 0 / 52%)), url(https://grainy-gradients.vercel.app/noise.svg);} 
+.dru1 {width: 230px; height: 200px; background-size: 350px; background-position: -120px -30px;} 
+.dru2 {width: 230px; height: 200px; background-size: cover; background-position: 0px -21px;} 
+.dru3 {font: italic 8px 'Cinzel'; text-transform: lowercase; letter-spacing: 2.5px; line-height: 11px; width: 195px; position: absolute; margin: -22px 175px; color: white; text-shadow: 2px 2px #000000; align-items: center; border-left: 1px solid white; padding: 0px 15px; opacity: 0.9;}
+.dru3 b {color: var(--groups); text-shadow: 0px 0px black; font-size: 11px; letter-spacing: 1px;}
+
+
+#aviso {font: 14px 'Alegreya Sans SC'; text-transform: lowercase; width: 360px; margin: auto; line-height: 13px;}
+#aviso strong {color: var(--groups); font-size: 45px; float: left; margin: 5px 10px; animation: blink 1s infinite;}
+#aviso u {color: var(--groups); font-weight: bold; text-decoration: unset;}
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
