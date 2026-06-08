@@ -54,7 +54,7 @@
 .jrth3 {display: flex ; font: italic 10px 'Cinzel'; text-transform: uppercase; letter-spacing: 0.5px; line-height: 9px; width: 105px; position: absolute; margin: -175px 255px; color: white; text-shadow: 2px 2px #000000; align-items: center;}
 
 
-.sln {margin: auto; display: flex ; width: 400px; position: relative; overflow: hidden; background-size: 400% 400%; filter: brightness(0.7);} 
+.sln {margin: auto; display: flex ; width: 400px; position: relative; overflow: hidden; background-size: 400% 400%; filter: brightness(0.5);} 
 .sln1 {width: 200px; height: 190px; background-size: cover;} 
 .sln2 {width: 200px; height: 190px; background-size: cover;} 
 .sln3 {display: flex; font: italic 11px 'Cinzel'; text-transform: uppercase; letter-spacing: 0.5px; line-height: 1; width: 131px; position: absolute; margin: -110px 179px; color: #ffffff; text-align: center; flex-direction: column; text-shadow: 0 0 4px #fff, 0 0 8px #fff, 0 0 16px #fff, 0 0 32px rgba(255, 255, 255, 1), 0 0 48px rgba(255, 255, 255, 0.9), 0 0 64px rgba(255, 255, 255, 0.8); animation: neonPulseStrong 4s ease-in-out infinite;}
