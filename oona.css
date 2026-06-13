@@ -1,0 +1,9 @@
+/* firma */ 
+.fo-1{position: relative; display: flex; width: 420px; margin: auto; overflow: hidden; background: linear-gradient(250deg, var(--tbckg) 20%, var(--shinzen)); background-size: 150% 200%; animation: moveGradient 20s ease-in-out infinite;} .fo-img-1{ position:relative; border-right: 1px solid black;} 
+.fo-img-1 img{ width:180px; height:180px; object-fit:cover; opacity: 0.6; filter: grayscale(1) contrast(1.2) contrast(0.9) brightness(0.5);} 
+.fo-img-2 img{ width:240px; height:180px; object-fit:cover; opacity: 0.6;} 
+.fo-capa{position: absolute; inset: 0; display: flex; align-items: center; justify-content: center; text-align: center; padding: 15px; background: rgba(0, 0, 0, .35); z-index: 1; transition: 2.5s; flex-direction: column; font-size: 30px; color: #000000a3; text-shadow: 1px 1px var(--shinzen); gap: 6px;} 
+.fo-capa txt {font: 100 8px 'Gideon Roman'; letter-spacing: 1px; text-transform: uppercase; line-height: 13px; border-top: 1px solid var(--dbckg1); border-bottom: 1px solid var(--dbckg1); padding: 10px; color: var(--dbckg6); text-shadow: 1px 1px black; width: 90px;} 
+.fo-texto{ position:absolute; inset:0; display:flex; align-items:center; justify-content:center; opacity:0; transition:2.5s; z-index:3; color:#fff; } 
+.fo-1:hover .fo-capa{ opacity:0; } .fo-1:hover .fo-img-1, .fo-1:hover .fo-img-2{ opacity: 7.5; filter:brightness(0.5); } .fo-1:hover .fo-texto{ opacity:1; } 
+.fo-texto txt {width: 130px; font: 100 8px 'Gideon Roman'; letter-spacing: 1px; text-transform: uppercase; line-height: 13px; border: 1px solid var(--dbckg1); padding: 10px 30px; color: var(--dbckg6); text-shadow: 1px 1px black; background: var(--dbckg1); margin-left: 181px;}
